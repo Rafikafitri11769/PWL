@@ -1,6 +1,6 @@
 <?
 $arrWarna = array ("Blue","Black","Red","Yellow","Green");
-$arrNilai = array ("Ani" => 80, "Otim" => 90, "Ana" => 75, "Budi"
+$arrNilai = array ("Anggi" => 80, "Oky" => 90, "Angga" => 75, "Badang"
 => 85);
 echo "<pre>";
 print_r ($arrWarna);

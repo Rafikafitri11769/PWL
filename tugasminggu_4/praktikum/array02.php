@@ -1,12 +1,12 @@
 <?php
-$arrNilai = array ("Ani" => 80, "Otim" => 90, "Ana" => 75, "Budi"
+$arrNilai = array ("Anggi" => 80, "Oky" => 90, "Angga" => 75, "Badang"
 => 85);
-echo $arrNilai['Ani']; //80
-echo $arrNilai['Otim']; //90
+echo $arrNilai['Anggi']; //80
+echo $arrNilai['Oky']; //90
 $arrNilai = array();
-$arrNilai['Ami'] = 80;
-$arrNilai['Asma'] = 95;
+$arrNilai['Abi'] = 80;
+$arrNilai['Aska'] = 95;
 $arrNilai['Sri'] = 77;
-echo $arrNilai['Asma']; //95
-echo $arrNilai['Ami']; //80
+echo $arrNilai['Aska']; //95
+echo $arrNilai['Abi']; //80
 ?>

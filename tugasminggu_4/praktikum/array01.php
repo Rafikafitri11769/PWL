@@ -1,12 +1,12 @@
 <?php
-$arrBuah = array ("Mangga", "Apel", "Pisang", "Jeruk");
-echo $arrBuah[0]; //Mangga
-echo $arrBuah[3]; //Jeruk
+$arrBuah = array ("Melon", "Anggur", "Pepaya", "Jambu");
+echo $arrBuah[0]; //Melon
+echo $arrBuah[3]; //Jambu
 $arrWarna = array();
-$arrWarna[] = "Merah";
-$arrWarna[] = "Biru";
 $arrWarna[] = "Hijau";
-$arrWarna[] = "Putih";
-echo $arrWarna[0]; //Merah
-echo $arrWarna[2]; //Hijau
+$arrWarna[] = "Ungu";
+$arrWarna[] = "Kuning";
+$arrWarna[] = "Merah";
+echo $arrWarna[0]; //Hijau
+echo $arrWarna[2]; //Kuning
 ?>

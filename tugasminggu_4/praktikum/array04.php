@@ -1,5 +1,5 @@
 <?php
-$arrNilai = array ("Ani" => 80, "Otim" => 90, "Ana" => 75, "Budi"
+$arrNilai = array ("Anggi" => 80, "Oky" => 90, "Angga" => 75, "Badang"
 => 85);
 echo "Menampilkan isi array dengan foreach : <br>";
 foreach ($arrNilai as $nama => $nilai) {

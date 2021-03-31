@@ -1,9 +1,9 @@
 <?php
-$arrBuah = array ("Mangga", "Apel", "Pisang", "Kedondong",
+$arrBuah = array ("Melon", "Anggur", "Pepaya", "Kelengkeng",
 "Jeruk");
-if (in_array ("Kedondong", $arrBuah)) {
-echo "Ada buah Kedondong di sini";
+if (in_array ("Kelengkeng", $arrBuah)) {
+echo "Ada buah Kelengkeng di sini";
 } else {
-echo "Tidak ada buah Kedondong di sini";
+echo "Tidak ada buah Kelengkeng di sini";
 }
 ?>
