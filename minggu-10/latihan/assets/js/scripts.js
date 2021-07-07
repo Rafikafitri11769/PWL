@@ -1,1 +1,0 @@
-confirm("Yakin ingin menghapus record ini?")
